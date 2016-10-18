@@ -2,7 +2,7 @@
  
 <resources>
 
-<string name="app_name">Accelerometer</string>
+<string name="app_name">Step Counter</string>
  
 <string name="action_settings">Settings</string>
  
@@ -10,10 +10,12 @@
  
 <string name="strStart">Start</string>
  
-<string name="txtSteps">Steps</string>
+<string name="txtSteps">Passos</string>
  
 <string name="reset">Reset</string>
  
 <string name="strStop">Stop</string>
+
+<color name="blue">#87CEFF</color>
  
 </resources>
